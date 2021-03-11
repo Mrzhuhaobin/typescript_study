@@ -1,2 +1,0 @@
-# typescript_study
-ts
